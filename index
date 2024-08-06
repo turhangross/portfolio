@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<title>Turhan Gross III</title>
+		<meta name="description" content="Turhan Gross III Front End Web Designer">
+		<meta name="keywords" content="html portfolio artist web development css wordpress art">
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/stylesheet.css">
+	</head>
+	
+	<body>
+		<nav class="main">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="#about">About</a></li>
+				<li><a href="#skillset">Skills</a></li>
+				<li><a href="#portfolio">Portfolio</a></li>
+				<li><a href="#contact">Contact</a></li>
+			</ul>
+		</nav>
+		<header>
+			<div class="headerContent">
+				<h1>Turhan Gross III</h1>
+				<h2>Front End Web Designer | Artist</h2>
+				<h3>Front end web designer and traditional artist with a passion for crafting visually stunning and user-friendly digital experiences, complemented by a strong foundation in classical art techniques.</h3>
+			</div>
+		</header>
+		
+		<div id="about" class="section">
+			<h1>About Me</h1>
+			<p>Welcome to my portfolio! My name is Turhan, and I am passionate about blending art and technology to create visually stunning and highly functional digital experiences. With a background in web design and a keen eye for detail, I bring creativity and precision to every project I undertake.</p>
+
+			<p>From crafting captivating website banners and social media graphics to developing interactive web applications, I thrive on pushing the boundaries of design and coding. My artistic skills allow me to envision and produce compelling visuals, while my coding expertise enables me to bring these visions to life with seamless functionality.</p>
+		</div>
+		<div id="skillset" class="section">
+			<h1>My Skills</h1>
+			<table>
+				<thead>
+					<tr>
+						<th>Platform</th>
+						<th>Rating</th>
+					  </tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>HTML/CSS</td>
+						<td>&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+					</tr>
+					<tr>
+						<td>Traditional Art</td>
+						<td>&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+					  </tr>
+					  <tr>
+						<td>Adobe Suite</td>
+						<td>&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;</td>
+					  </tr>
+					  <tr>
+						<td>Procreate</td>
+						<td>&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+					  </tr>
+					  <tr>
+						<td>Microsoft Office</td>
+						<td>&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;</td>
+					  </tr>
+					  <tr>
+						<td>Windows OS</td>
+						<td>&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+					  </tr>
+					  <tr>
+						<td>JavaScript/jQuery</td>
+						<td>&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+					  </tr>
+					</tbody>
+					</table>
+		</div>
+		<div id="portfolio" class="section">
+			<h1>Portfolio</h1>
+			<img src="images/mlk.JPG" alt="Digital Portrait of Martin Luther King Jr."><br>
+			<a href="http://w7th.com" target="_blank"><img src="images/w7th.JPG" "West 7th Design Studio"></a><br>
+			<img src="images/coffee.JPG" alt="Photograph of a coffee shop espresso machine"><br>
+			<img src="images/michonne.jpg" alt="Ink portrait of Michonne from The Walking Dead"><br>
+			<img src="images/jAiko.PNG" alt="Digital portrait of singer Jhene Aiko"><br>
+			<img src="images/gaga.JPG" alt="Graphite Drawing of singer Lady Gaga">
+			
+		</div>
+		<footer id="contact" >
+			<h1>turhan.phillip@gmail.com</h1>
+		</footer>
+		
+	</body>
+	
+</html>
